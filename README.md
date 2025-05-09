@@ -13,25 +13,6 @@ Welcome to my personal portfolio website built with **React.js** and powered by 
 
 ---
 
-## 📂 Project Structure
-
-Portfolio/
-├── public/
-├── src/
-│ ├── assets/ # Images, icons, PDFs
-│ ├── Components/ # React component folders (Hero, About, Projects, etc.)
-│ ├── App.jsx # Root component
-│ ├── index.css # Global styles
-│ └── main.jsx # Entry point
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
----
-
-
 ## 📧 Contact
 
 📬 **Email:** kirubhakaran249@gmail.com  
