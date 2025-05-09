@@ -6,7 +6,8 @@ import mysql_icon from "../../assets/mysql_icon.svg";
 import html5_icon from "../../assets/html5_icon.svg";
 import css3_icon from "../../assets/css3_icon.svg";
 import React_icon from "../../assets/React_icon.webp";
-import Javascript_icon from "../../assets/Javascript_icon.webp";
+import Javascript_icon from "../../assets/JavaScript_icon.webp";
+
 
 const About = () => {
   return (
