@@ -1,12 +1,50 @@
-# React + Vite
+# 💼 Kirubhakaran's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React.js** and powered by **Vite**. This site showcases my skills, projects, and contact information. It's designed to highlight my work as a Full Stack Developer with a focus on clean UI, responsive design, and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Build Tool:** Vite
+- **Icons & Assets:** Custom SVGs and WebP images
+- **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+
+Portfolio/
+├── public/
+├── src/
+│ ├── assets/ # Images, icons, PDFs
+│ ├── Components/ # React component folders (Hero, About, Projects, etc.)
+│ ├── App.jsx # Root component
+│ ├── index.css # Global styles
+│ └── main.jsx # Entry point
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+
+## 📧 Contact
+
+📬 **Email:** kirubhakaran249@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kirubhakaran-rajendran](https://www.linkedin.com/in/kirubhakaran-rajendran/)  
+💻 **GitHub:** [github.com/Kirubhakaran003](https://github.com/Kirubhakaran003)
+
+---
+
+
+## 🙏 Acknowledgements
+
+Thanks to all open-source tools and libraries that made this project possible.
+
+---
+
+⭐️ If you like this project, feel free to star it and share it!
