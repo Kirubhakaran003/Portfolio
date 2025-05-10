@@ -74,11 +74,11 @@
       top: 0;
       gap: 30px;
       background-color: black;  
-      width: 150px;
+      width: 60%;
       height: 100%;
       z-index: 2;
       transition: right 0.5s;
-      right: -350px;
+      right: -100%;
       padding-top: 60px;  
     }
   
