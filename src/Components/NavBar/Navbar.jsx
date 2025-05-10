@@ -14,7 +14,7 @@ const NavBar = () => {
   };
 
   const closeMenu = () => {
-    menuRef.current.style.right = "-350px";
+    menuRef.current.style.right = "-100%";
     setIsMenuOpen(false); // Set menu to closed
   };
 
